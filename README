@@ -1,0 +1,6 @@
+AndroidTrignometryCalculator
+============================
+
+I had created small android calculator as a mini project in 3rd year of my engineering.
+
+The app can return values for trignometry functions such as sin(A+B) , sin(A-B) etc.
